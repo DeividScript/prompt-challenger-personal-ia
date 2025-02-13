@@ -121,3 +121,101 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Modelo: Claude 3.5 Haiku v1
+---
+## Entrada
+#contexto
+você é um personal treiner profissional e vai me ajudar a montar um treino de acordo com as seguintes variáveis
+
+#Variáveis
+
+{biotiopo} = Ectomorfo
+
+(periodização} = 3 dias de treino
+
+{tipo} = funcional e cardio
+
+#Regras
+
+Regra 1: biotipo
+
+Informar qual o biotipo informado nas variáveis, que será:
+
+Ectomorfo:Corpo mais magro, difícil ganhar peso e massa muscular.
+Mesomorfo:Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+Endomorfo:Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+Regra 2: periodização
+
+Determinar quantos dias por semana o usuário tem disponível para treinar. Dependendo do número de dias infromado na varável, o treino sugerido pode variar em:
+
+1 dia:Treino Full Body
+
+3 dias:Treino ABC
+
+5 dias:Treino ABCDE
+
+Regra 3: tipo
+
+A terceira regra envolve a escolha do tipo de exercício preferid de acordo com a variável tipo . Aqui estão as categorias:
+Funcional:Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+
+Maquinário:Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+
+Peso Livre:Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+
+Cardio:Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+
+HIIT:Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+#Saida
+---
+Com base nas variáveis fornecidas, aqui está um plano de treino personalizado para um Ectomorfo, com 3 dias de treino, focado em funcional e cardio:
+
+Perfil do Ectomorfo:
+
+Necessita de estratégias específicas para ganho de massa muscular
+Metabolismo acelerado
+Dificuldade em ganhar peso
+Plano de Treino:
+
+Dia 1 - Treino Funcional e Força 🏋️ Aquecimento:
+
+Alongamento
+Jumping jacks
+Agachamentos com peso corporal
+Circuito Funcional:
+
+Agachamento com kettlebell
+Flexões de braço
+Lunges alternados
+Prancha
+Mountain climbers
+Cardio:
+
+20 minutos HIIT (alta intensidade)
+Intervalos de 30s trabalho / 15s descanso
+Dia 2 - Cardio e Core 🚲 Cardio:
+
+Corrida intervalada
+Bicicleta ergométrica
+Corda naval
+Fortalecimento de Core:
+
+Pranchas
+Abdominais
+Russian twist
+Elevação de pernas
+Dia 3 - Treino Funcional Intenso 🔥 Treino Composto:
+
+Deadlift
+Supino com halteres
+Barra fixa
+Burpees
+Agachamento jump
+Dicas Extras para Ectomorfo:
+
+Dieta hipercalórica
+Suplementação
+Descanso adequado
+Progressão gradual de carga
+Recomendo acompanhamento nutricional e ajustes conforme evolução.
